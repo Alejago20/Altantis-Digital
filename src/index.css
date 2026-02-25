@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Agrega esto para que el fondo sea oscuro como en la imagen */
+body {
+  background-color: #020b10;
+  color: white;
+} 
