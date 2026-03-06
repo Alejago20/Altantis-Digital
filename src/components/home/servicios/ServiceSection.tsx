@@ -12,7 +12,7 @@ const ServiceSection = () => {
           </span>
           <div className="flex justify-between items-center">
             <h2 className="text-4xl md:text-5xl font-semibold text-white leading-tight w-2/3 ml-4">
-              Servicios Digitales Premium
+              Servicios Digitales 
             </h2>
             <h5 className="text-gray-400 w-1/3 mb-6">
               Estrategias personalizadas y excelencia técnica para ayudar a su

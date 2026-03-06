@@ -17,11 +17,11 @@ const HeroContent = () => {
 
       <div className="mt-10 flex gap-4">
         <button className="px-6 py-3 rounded-xl bg-sky-500 text-white font-semibold">
-          Start Your Project
+          Contacto
         </button>
 
         <button className="px-6 py-3 rounded-xl border border-white/10 text-white">
-          View Portfolio
+          Ver Portafolio
         </button>
       </div>
     </div>
