@@ -1,4 +1,4 @@
-export  const projects = [
+export const projects = [
   {
     id: 1,
     title: "Tienda Celulares",
@@ -14,5 +14,13 @@ export  const projects = [
       "Sitio web inmobiliario para visualizar propiedades en venta con diseño moderno y estructura enfocada en la experiencia del usuario.",
     image: "/images/proyecto1.png",
     link: "https://bienesraices-colombia.netlify.app/",
+  },
+  {
+    id: 3,
+    title: "Cosmosdex - Gestor de Tareas",
+    description:
+      "Aplicación web moderna para la gestión de tareas que permite organizar actividades, priorizar pendientes y mejorar la productividad diaria mediante una interfaz intuitiva y diseño responsive.",
+    image: "/images/proyecto2.png",
+    link: "https://cosmosdex.netlify.app/",
   },
 ];
