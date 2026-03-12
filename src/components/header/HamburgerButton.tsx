@@ -3,13 +3,14 @@ interface Props {
   toggle: () => void;
 }
 
-const HamburgerButton = ({ toggle }: Props) => {
+const HamburgerButton = ({ open, toggle }: Props) => {
   return (
     <button
-      className="text-white text-3xl"
       onClick={toggle}
+      className="text-white text-3xl"
+      aria-label="Abrir menú"
     >
-      ☰
+      {open ? "✕" : "☰"}
     </button>
   );
 };

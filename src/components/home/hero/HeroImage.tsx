@@ -19,8 +19,8 @@ const HeroImage = () => {
         >
           <div className="rounded-3xl overflow-hidden border border-white/10 shadow-2xl">
             <img
-              src="https://images.unsplash.com/photo-1460925895917-afdab827c52f"
-              alt="Dashboard de crecimiento empresarial"
+              src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f"
+              alt="Equipo trabajando en proyecto digital"
               className="w-full h-full object-cover"
             />
           </div>

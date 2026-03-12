@@ -28,9 +28,10 @@ const HeroContent = () => {
        
       
 
-        <button className="px-6 py-3 rounded-xl border border-white/10 text-white">
+        <Link className="px-6 py-3 rounded-xl border border-white/10 text-white"
+        to="/portafolio">
           Ver Portafolio
-        </button>
+        </Link>
       </div>
     </div>
   );
