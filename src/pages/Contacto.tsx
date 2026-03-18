@@ -1,8 +1,8 @@
 import {
   ArrowLeft,
-  MessageCircle,
+ /*  MessageCircle,
   Mail,
-  Globe,
+  Globe, */
   Linkedin,
   Instagram,
   Twitter,
